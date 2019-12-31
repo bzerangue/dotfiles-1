@@ -8,7 +8,7 @@ export PATH="$HOME/.node/bin:$PATH"
 export PATH="node_modules/.bin:vendor/bin:$PATH"
 
 # Use for Python
-export PATH="/usr/local/opt/python/libexec/bin:$PATH"
+export PATH="/usr/local/opt/python@3.8/bin:/usr/local/opt/python/libexec/bin:$PATH"
 
 # Make sure coreutils are loaded before system commands
 # I've disabled this for now because I only use "ls" which is
