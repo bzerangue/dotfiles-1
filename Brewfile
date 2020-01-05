@@ -54,6 +54,7 @@ brew 'yarn'
 # Apps
 cask '1password'
 cask 'alfred'
+cask 'authy'
 cask 'brave-browser'
 cask 'caffeine'
 cask 'coda'
